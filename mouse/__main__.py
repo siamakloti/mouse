@@ -3,6 +3,7 @@ import mouse
 import fileinput
 import json
 import sys
+import xml
 
 class_by_name = {
 	'ButtonEvent': mouse.ButtonEvent,
